@@ -1,6 +1,7 @@
 
-#Qr code generator
- QR code generator to create your QR code with just few clicks. You can use this tool for commercial use and personal, but you need to whitelist us from a commercial purpose.
+# QR code generator
+
+QR code generator to create your QR code with just few clicks. You can use this tool for commercial use and personal, but you need to whitelist us from a commercial purpose.
 # Hi, I'm Paramesh!👋<V‿K>
 
 
@@ -29,3 +30,5 @@ If you have any feedback, please reach out to us at parameshvk3232@gmail.com
 
 
 
+
+****
